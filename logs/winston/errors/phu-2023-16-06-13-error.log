@@ -1,0 +1,2 @@
+Fri Jun 16 2023 13:13:32 [University Auth] error: ❌ Failed to connect querySrv ECONNREFUSED _mongodb._tcp.cluster0.sr6rc.mongodb.net
+Fri Jun 16 2023 13:13:59 [University Auth] error: ❌ Failed to connect querySrv ETIMEOUT _mongodb._tcp.cluster0.sr6rc.mongodb.net
